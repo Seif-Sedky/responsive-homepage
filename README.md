@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website  
+# 🌐 Personal Portfolio Prototype  
 
 A fully **hand-coded portfolio site** built with just **HTML5 and CSS3** — no external libraries or frameworks.  
 
